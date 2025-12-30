@@ -6,7 +6,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitClient {
-    private const val BASE_URL = "http://192.168.0.3:8080/Rodos_api/"//"http://192.168.0.5/Rodos_api/"
+    private const val BASE_URL = "http://192.xxx.xxx.xxx/Rodos_api/"
 
     private val loggingInterceptor = HttpLoggingInterceptor().apply {
         level = HttpLoggingInterceptor.Level.BODY
