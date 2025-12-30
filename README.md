@@ -29,4 +29,4 @@ enviándolos desde la app hacia una **API REST en PHP**, eliminando el uso de no
 ---
 ## Backend (API)
 La aplicación consume una API REST desarrollada en PHP.
-
+[VER EL FLUJO DE LA APP]()
